@@ -1,4 +1,7 @@
 <p align="center">
+	<img valign="top" src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=giterlizzi">
+</p>
+<p align="center">
 	<img valign="top" src="https://github-readme-stats.vercel.app/api?username=giterlizzi&count_private=true&show_icons=true">
 	<img valign="top" src="https://github-readme-stats.vercel.app/api/top-langs?username=giterlizzi&layout=compact">
 </p>
