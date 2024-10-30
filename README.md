@@ -14,24 +14,26 @@ I'm Giuseppe Di Terlizzi (GDT)
   - Advanced Plugin
   - Bootstrap Wrapper Plugin
 
-## CodersRank Stats
-
-<p align="center">
-	<img valign="top" src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=giterlizzi">
-</p>
+- SecDB - Dashboard for security researchers and analysts (https://secdb.nttzen.cloud)
 
 ## Github Stats
 
 <p align="center">
-	<img valign="top" src="https://github-readme-stats.vercel.app/api?username=giterlizzi&count_private=true&show_icons=true">
-	<br>
-	<img valign="top" src="https://github-readme-stats.vercel.app/api/top-langs?username=giterlizzi&layout=compact">
+  <img valign="top" src="https://github-readme-stats.vercel.app/api?username=giterlizzi&count_private=true&show_icons=true">
+  <br>
+  <img valign="top" src="https://github-readme-stats.vercel.app/api/top-langs?username=giterlizzi&layout=compact">
+</p>
+
+## CodersRank Stats
+
+<p align="center">
+  <img valign="top" src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=giterlizzi">
 </p>
 
 ## Connect with me
 
 <p align="center">
-	<a href="https://github.com/giterlizzi"><img src="https://img.shields.io/github/followers/giterlizzi.svg?style=for-the-badge&logo=github&label=GitHub" alt="GitHub"></a>
-	<a href="https://twitter.com/DiTerlizziG"><img src="https://img.shields.io/twitter/follow/DiTerlizziG?label=Twitter&style=for-the-badge&logo=x" alt="Twitter"></a>
-	<a href="https://www.linkedin.com/in/diterlizzigiuseppe"><img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://github.com/giterlizzi"><img src="https://img.shields.io/github/followers/giterlizzi.svg?style=for-the-badge&logo=github&label=GitHub" alt="GitHub"></a>
+  <a href="https://twitter.com/DiTerlizziG"><img src="https://img.shields.io/twitter/follow/DiTerlizziG?label=Twitter&style=for-the-badge&logo=x" alt="Twitter"></a>
+  <a href="https://www.linkedin.com/in/diterlizzigiuseppe"><img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 </p>
