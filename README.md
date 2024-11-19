@@ -4,7 +4,8 @@ I'm Giuseppe Di Terlizzi (GDT)
 
 - Perl projects: 
   - Package URL (PURL) ([MetaCPAN](https://metacpan.org/dist/URI-PackageURL) - [GitHub](https://github.com/giterlizzi/perl-URI-PackageURL))
-  - CSAF ([MetaCPAN](https://metacpan.org/dist/CSAF) - [GitHub](https://github.com/giterlizzi/perl-CSAFL))
+  - CSAF ([MetaCPAN](https://metacpan.org/dist/CSAF) - [GitHub](https://github.com/giterlizzi/perl-CSAF))
+  - STIX ([MetaCPAN](https://metacpan.org/dist/STIX) - [GitHub](https://github.com/giterlizzi/perl-STIX))
   - CVSS ([MetaCPAN](https://metacpan.org/dist/CVSS) - [GitHub](https://github.com/giterlizzi/perl-CVSS))
   - HTMX </> for Mojolicious ([MetaCPAN](https://metacpan.org/dist/Mojolicious-Plugin-HTMX) - [GitHub](https://github.com/giterlizzi/perl-Mojolicious-Plugin-HTMX))
 
