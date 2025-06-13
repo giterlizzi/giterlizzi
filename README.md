@@ -7,6 +7,7 @@ I'm Giuseppe Di Terlizzi (GDT)
   - CSAF ([MetaCPAN](https://metacpan.org/dist/CSAF) - [GitHub](https://github.com/giterlizzi/perl-CSAF))
   - STIX ([MetaCPAN](https://metacpan.org/dist/STIX) - [GitHub](https://github.com/giterlizzi/perl-STIX))
   - CVSS ([MetaCPAN](https://metacpan.org/dist/CVSS) - [GitHub](https://github.com/giterlizzi/perl-CVSS))
+  - SBOM::CycloneDX ([MetaCPAN](https://metacpan.org/dist/SBOM-CycloneDX) - [GitHub](https://github.com/giterlizzi/perl-SBOM-CycloneDX))
   - HTMX </> for Mojolicious ([MetaCPAN](https://metacpan.org/dist/Mojolicious-Plugin-HTMX) - [GitHub](https://github.com/giterlizzi/perl-Mojolicious-Plugin-HTMX))
 
 - DokuWiki projects:
