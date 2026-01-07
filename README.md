@@ -8,18 +8,25 @@ https://links.giterlizzi.dev/
 
 - **SBOM::CycloneDX** - CycloneDX Perl Library ([MetaCPAN](https://metacpan.org/dist/SBOM-CycloneDX) · [GitHub](https://github.com/giterlizzi/perl-SBOM-CycloneDX))
 - **App::CPAN::SBOM** - CPAN SBOM (Software Bill of Materials) generator ([MetaCPAN](https://metacpan.org/dist/App-CPAN-SBOM) · [GitHub](https://github.com/giterlizzi/perl-App-CPAN-SBOM))
+- **Module::CoreList::SBOM** - Generate SBOM for Perl Modules::CoreList ([MetaCPAN](https://metacpan.org/dist/Module-CoreList-SBOM) · [GitHub](https://github.com/giterlizzi/perl-Module-CoreList-SBOM))
 - **URI::PackageURL** - Perl extension for Package URL (aka "PURL") ([MetaCPAN](https://metacpan.org/dist/URI-PackageURL) · [GitHub](https://github.com/giterlizzi/perl-URI-PackageURL))
 - **CVSS** - Perl extension for CVSS (Common Vulnerability Scoring System) 2.0/3.x/4.0 ([MetaCPAN](https://metacpan.org/dist/CVSS) · [GitHub](https://github.com/giterlizzi/perl-CVSS) · [Referenced by FIRST](https://www.first.org/cvss/v4-0/faq#List-of-Calculator-Libraries))
 - **CSAF** - Common Security Advisory Framework toolkit ([MetaCPAN](https://metacpan.org/dist/CSAF) · [GitHub](https://github.com/giterlizzi/perl-CSAF))
 - **STIX** - Structured Threat Information Expression ([MetaCPAN](https://metacpan.org/dist/STIX) · [GitHub](https://github.com/giterlizzi/perl-STIX))
+- **SSVC** - Perl extension for SSVC (Stakeholder-Specific Vulnerability Categorization) ([MetaCPAN](https://metacpan.org/dist/SSVC) · [GitHub](https://github.com/giterlizzi/perl-SSVC))
 
 ## 🛡️ ZEN SecDB
 
 ZEN SecDB is a cybersecurity knowledge platform designed to analyze, correlate, and track vulnerabilities, threats, and real-world exploitation data.
 
-**ZEN SecDB portal**: https://secdb.nttzen.cloud ([Mastodon](https://infosec.exchange/@secdb) · [Telegram (feed)](https://t.me/secdbportal_feed) · [Telegram (@secdbportal_bot)](https://t.me/secdbportal_bot))
+https://secdb.nttzen.cloud 
 
-### Projects & Utility:
+### Social
+- [Mastodon](https://infosec.exchange/@secdb)
+- [Telegram (feed)](https://t.me/secdbportal_feed)
+- [Telegram (@secdbportal_bot)](https://t.me/secdbportal_bot)
+
+### Related Projects
 
 - **SecDB Linux Audit**: https://secdb.nttzen.cloud/pkg/audit/linux
 - **SecDB Feeds**: https://github.com/giterlizzi/secdb-feeds
