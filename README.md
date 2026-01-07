@@ -69,6 +69,7 @@ A set of theme and plugins for [DokuWiki](https://www.dokiwiki.org):
 
 - **Net::Gotify** - Gotify client for Perl ([MetaCPAN](https://metacpan.org/dist/Net-Gotify) · [GitHub](https://github.com/giterlizzi/perl-Net-Gotify))
 - **Map::Tube::Rome** - Interface to the Rome tube map ([MetaCPAN](https://metacpan.org/dist/Map-Tube-Rome) · [GitHub](https://github.com/giterlizzi/perl-Map-Tube-Rome))
+- **Formula 1 Team Radio Fortunes** - Funnies and epic F1 team radio in fortune(6) format [GitHub](https://github.com/giterlizzi/f1-fortunes)
 
 ---
 
@@ -80,22 +81,23 @@ A set of theme and plugins for [DokuWiki](https://www.dokiwiki.org):
 
 ---
 
+<!--
 ## 📈 Stats
 
 <p align="center">
   <img valign="top" src="https://github-readme-stats.vercel.app/api?username=giterlizzi&count_private=true&show_icons=true">
-  <br>
   <img valign="top" src="https://github-readme-stats.vercel.app/api/top-langs?username=giterlizzi&layout=compact">
-  <br>
   <img valign="top" src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=giterlizzi">
 </p>
 
 ---
+-->
 
 ## 🤝 Connect
 
 <p align="center">
-  <a href="https://github.com/giterlizzi"><img src="https://img.shields.io/github/followers/giterlizzi.svg?style=for-the-badge&logo=github&label=GitHub" alt="GitHub"></a>
-  <a href="https://twitter.com/DiTerlizziG"><img src="https://img.shields.io/twitter/follow/DiTerlizziG?label=Twitter&style=for-the-badge&logo=x" alt="Twitter"></a>
-  <a href="https://www.linkedin.com/in/diterlizzigiuseppe"><img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://github.com/giterlizzi"><img src="https://img.shields.io/github/followers/giterlizzi.svg?logo=github&label=GitHub" alt="GitHub"></a>
+  <a href="https://twitter.com/DiTerlizziGi"><img src="https://img.shields.io/twitter/follow/DiTerlizziGi?label=Twitter&logo=x" alt="Twitter"></a>
+  <a href="https://www.linkedin.com/in/diterlizzigiuseppe"><img src="https://img.shields.io/badge/Linkedin-%231E77B5.svg?&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://mastodon.uno/@DiTerlizziGi"><img src="https://img.shields.io/mastodon/follow/109450905126767597?domain=mastodon.uno&logo=mastodon" alt="Mastodon"></a>
 </p>
