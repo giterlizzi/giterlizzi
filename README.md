@@ -6,12 +6,13 @@ https://links.giterlizzi.dev/
 
 ## 🛡️ Security standards & Supply Chain
 
-- **SBOM::CycloneDX** - CycloneDX Perl Library ([MetaCPAN](https://metacpan.org/dist/SBOM-CycloneDX) · [GitHub](https://github.com/giterlizzi/perl-SBOM-CycloneDX))
-- **App::CPAN::SBOM** - CPAN SBOM (Software Bill of Materials) generator ([MetaCPAN](https://metacpan.org/dist/App-CPAN-SBOM) · [GitHub](https://github.com/giterlizzi/perl-App-CPAN-SBOM))
-- **Module::CoreList::SBOM** - Generate SBOM for Perl Modules::CoreList ([MetaCPAN](https://metacpan.org/dist/Module-CoreList-SBOM) · [GitHub](https://github.com/giterlizzi/perl-Module-CoreList-SBOM))
 - **URI::PackageURL** - Perl extension for Package URL (aka "PURL") ([MetaCPAN](https://metacpan.org/dist/URI-PackageURL) · [GitHub](https://github.com/giterlizzi/perl-URI-PackageURL))
-- **CVSS** - Perl extension for CVSS (Common Vulnerability Scoring System) 2.0/3.x/4.0 ([MetaCPAN](https://metacpan.org/dist/CVSS) · [GitHub](https://github.com/giterlizzi/perl-CVSS) · [Referenced by FIRST](https://www.first.org/cvss/v4-0/faq#List-of-Calculator-Libraries))
+- **SBOM::CycloneDX** - CycloneDX Perl Library ([MetaCPAN](https://metacpan.org/dist/SBOM-CycloneDX) · [GitHub](https://github.com/giterlizzi/perl-SBOM-CycloneDX))
+  - **App::CPAN::SBOM** - CPAN SBOM (Software Bill of Materials) generator ([MetaCPAN](https://metacpan.org/dist/App-CPAN-SBOM) · [GitHub](https://github.com/giterlizzi/perl-App-CPAN-SBOM))
+  - **Module::CoreList::SBOM** - Generate SBOM for Perl Modules::CoreList ([MetaCPAN](https://metacpan.org/dist/Module-CoreList-SBOM) · [GitHub](https://github.com/giterlizzi/perl-Module-CoreList-SBOM))
 - **CSAF** - Common Security Advisory Framework toolkit ([MetaCPAN](https://metacpan.org/dist/CSAF) · [GitHub](https://github.com/giterlizzi/perl-CSAF))
+  - **CPAN :: Security Advisories**: CPANSA in CSAF format ([Website](https://cpansa.giterlizzi.dev) · [GitHub](https://github.com/giterlizzi/perl-CPANSA-CSAF))
+- **CVSS** - Perl extension for CVSS (Common Vulnerability Scoring System) 2.0/3.x/4.0 ([MetaCPAN](https://metacpan.org/dist/CVSS) · [GitHub](https://github.com/giterlizzi/perl-CVSS) · [Referenced by FIRST](https://www.first.org/cvss/v4-0/faq#List-of-Calculator-Libraries))
 - **STIX** - Structured Threat Information Expression ([MetaCPAN](https://metacpan.org/dist/STIX) · [GitHub](https://github.com/giterlizzi/perl-STIX))
 - **SSVC** - Perl extension for SSVC (Stakeholder-Specific Vulnerability Categorization) ([MetaCPAN](https://metacpan.org/dist/SSVC) · [GitHub](https://github.com/giterlizzi/perl-SSVC))
 
@@ -64,6 +65,7 @@ A set of theme and plugins for [DokuWiki](https://www.dokiwiki.org):
 - Bootstrap Wrapper Plugin - [DokuWiki](https://www.dokuwiki.org/plugin:bootswrapper) · [GitHub](https://github.com/giterlizzi/dokuwiki-plugin-bootswrapper)
 - WebDAV Plugin - [DokuWiki](https://www.dokuwiki.org/plugin:webdav) · [GitHub](https://github.com/giterlizzi/dokuwiki-plugin-webdav)
 - Semantic Plugin - [DokuWiki](https://www.dokuwiki.org/plugin:semantic) · [GitHub](https://github.com/giterlizzi/dokuwiki-plugin-semantic)
+- Datatables Plugin - [DokuWiki](https://www.dokuwiki.org/plugin:datatables) · [GitHub](https://github.com/giterlizzi/dokuwiki-plugin-datatables)
 
 ### 🏷️ Version
 
@@ -83,8 +85,8 @@ A set of theme and plugins for [DokuWiki](https://www.dokiwiki.org):
 ## 🔗 Quick links
 
 - **MetaCPAN (GDT)**: https://metacpan.org/author/GDT
-- **CPAN :: Security Advisories**: https://cpansa.giterlizzi.dev
 - **CPAN Dashboard (GDT)**: https://cpandashboard.com/GDT
+- **Me**: https://links.giterlizzi.dev
 
 ---
 
