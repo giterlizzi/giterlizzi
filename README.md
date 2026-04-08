@@ -33,6 +33,7 @@ https://secdb.nttzen.cloud
 - **SecDB Feeds**: https://github.com/giterlizzi/secdb-feeds
 - **NMAP Plugin**: https://github.com/giterlizzi/secdb-nmap
 - **EPSS Time-Series feed**: https://github.com/giterlizzi/epss-time-series-feed
+- **ZEN SecDB Extension for VS Code**: https://github.com/giterlizzi/secdb-vscode
 
 ## 📦 More projects
 
