@@ -20,10 +20,15 @@ https://links.giterlizzi.dev/
 
 ZEN SecDB is a cybersecurity knowledge platform designed to analyze, correlate, and track vulnerabilities, threats, and real-world exploitation data.
 
-https://secdb.nttzen.cloud 
+https://secdb.nttzen.cloud
+
+### MCP Server
+- **Endpoint**: https://secdb.nttzen.cloud/mcp
+- **Documentation**: https://secdb.nttzen.cloud/docs/integrations/mcp
 
 ### Social
 - [Mastodon](https://infosec.exchange/@secdb)
+- [Bluesky](https://bsky.app/profile/secdb.bsky.social)
 - [Telegram (feed)](https://t.me/secdbportal_feed)
 - [Telegram (@secdbportal_bot)](https://t.me/secdbportal_bot)
 
