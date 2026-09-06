@@ -34,7 +34,10 @@ https://secdb.nttzen.cloud
 
 ### Related Projects
 
-- **SecDB Linux Audit**: https://secdb.nttzen.cloud/pkg/audit/linux
+- **SecDB CLI**: https://github.com/giterlizzi/secdb-cli
+- **SecDB Audit**
+  - **Linux**: https://secdb.nttzen.cloud/pkg/audit/linux
+  - **PURL (Packages URL)**: https://secdb.nttzen.cloud/pkg/audit/purl
 - **SecDB Feeds**: https://github.com/giterlizzi/secdb-feeds
 - **NMAP Plugin**: https://github.com/giterlizzi/secdb-nmap
 - **EPSS Time-Series feed**: https://github.com/giterlizzi/epss-time-series-feed
